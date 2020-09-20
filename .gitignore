@@ -1,1 +1,7 @@
 apiKeys.json
+bin/
+include/
+lib/
+.*
+*.txt
+keys.json
